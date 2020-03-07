@@ -1,0 +1,21 @@
+User ID: 278774 Location: london, n/a, united kingdom Age: 33
+Top books: 
+Book ID: 039914465X Score: 1.13 Title: Southern Cross Author: Patricia Daniels Cornwell Year of Publication: 1999
+Book ID: 0399145087 Score: 0.53 Title: Black Notice Author: Patricia Daniels Cornwell Year of Publication: 1999
+Book ID: 0399141464 Score: 0.53 Title: Cause of Death Author: Patricia Daniels Cornwell Year of Publication: 1996
+Book ID: 0425158616 Score: 0.53 Title: Cause of Death Author: Patricia Daniels Cornwell Year of Publication: 1997
+Book ID: 0425147622 Score: 0.53 Title: The Body Farm Author: Patricia Daniels Cornwell Year of Publication: 1995
+Book ID: 0399142851 Score: 0.53 Title: Unnatural Exposure Author: Patricia Daniels Cornwell Year of Publication: 1997
+Book ID: 0425163407 Score: 0.53 Title: Unnatural Exposure Author: Patricia Daniels Cornwell Year of Publication: 1998
+Book ID: 039914739X Score: 0.53 Title: Isle of Dogs Author: Patricia Daniels Cornwell Year of Publication: 2001
+Book ID: 0399142282 Score: 0.53 Title: Hornet's Nest Author: Patricia Daniels Cornwell Year of Publication: 1997
+Book ID: 0399143947 Score: 0.53 Title: Point of Origin Author: Patricia Daniels Cornwell Year of Publication: 1998
+Book ID: 0140622144 Score: 0.45 Title: To the Lighthouse (Penguin Popular Classics) Author: Virginia Woolf Year of Publication: 1996
+Book ID: 0140620109 Score: 0.45 Title: Emma (Penguin Popular Classics) Author: Jane Austen Year of Publication: 1994
+Book ID: 0140622179 Score: 0.45 Title: The Dubliners (Penguin Popular Classics) Author: James Joyce Year of Publication: 1996
+Book ID: 014062063X Score: 0.45 Title: Dracula (Penguin Popular Classics) Author: Bram Stoker Year of Publication: 1994
+Book ID: 0140620508 Score: 0.45 Title: Ivanhoe (Penguin Popular Classics) Author: Walter Scott Year of Publication: 1994
+Book ID: 0140620125 Score: 0.43 Title: Wuthering Heights (Penguin Popular Classics) Author: Emily Bronte Year of Publication: 1994
+Book ID: 0140621164 Score: 0.43 Title: Selected Tales (Penguin Popular Classics) Author: Edgar Allan Poe Year of Publication: 1994
+Book ID: 0140620990 Score: 0.43 Title: The Christmas Books (Penguin Popular Classics) Author: Charles Dickens Year of Publication: 1994
+Book ID: 0140621032 Score: 0.43 Title: Ghost Stories (Penguin Popular Classics) Author: M.R. James Year of Publication: 1994

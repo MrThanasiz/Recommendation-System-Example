@@ -1,0 +1,5 @@
+UserID: 155064 Overlap: 0.89
+UserID: 165444 Overlap: 0.86
+UserID: 278774 Overlap: 1.0
+UserID: 267981 Overlap: 0.66
+UserID: 186850 Overlap: 1.0

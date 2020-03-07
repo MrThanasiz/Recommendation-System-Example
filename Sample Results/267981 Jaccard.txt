@@ -1,0 +1,12 @@
+User ID: 267981 Location: modesto, california, usa Age: 38
+Top books: 
+Book ID: 0060185074 Score: 0.59 Title: The Vendetta Defense Author: Lisa Scottoline Year of Publication: 2001
+Book ID: 0345435168 Score: 0.57 Title: Open House (Oprah's Book Club (Paperback)) Author: Elizabeth Berg Year of Publication: 2001
+Book ID: 0061096113 Score: 0.53 Title: Mistaken Identity Author: Lisa Scottoline Year of Publication: 2000
+Book ID: 0425176487 Score: 0.53 Title: The Pull of the Moon Author: Elizabeth Berg Year of Publication: 2000
+Book ID: 0060185147 Score: 0.53 Title: Courting Trouble Author: Lisa Scottoline Year of Publication: 2002
+Book ID: 0743411323 Score: 0.53 Title: Never Change Author: Elizabeth Berg Year of Publication: 2001
+Book ID: 0061030597 Score: 0.53 Title: Moment of Truth Author: Lisa Scottoline Year of Publication: 2001
+Book ID: 0060196092 Score: 0.53 Title: Moment of Truth Author: Lisa Scottoline Year of Publication: 2000
+Book ID: 042516876X Score: 0.53 Title: Range of Motion Author: Elizabeth Berg Year of Publication: 2000
+Book ID: 0345435028 Score: 0.53 Title: What We Keep Author: Elizabeth Berg Year of Publication: 2002

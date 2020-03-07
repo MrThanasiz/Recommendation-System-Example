@@ -1,0 +1,17 @@
+User ID: 186850 Location: wixom, michigan, usa Age: NULL
+Top books: 
+Book ID: 0345360001 Score: 1.27 Title: The Mummy or Ramses the Damned Author: Anne Rice Year of Publication: 1989
+Book ID: 0316769177 Score: 1.16 Title: The Catcher in the Rye Author: J.D. Salinger Year of Publication: 2001
+Book ID: 0345351525 Score: 0.98 Title: The Queen of the Damned (Vampire Chronicles (Paperback)) Author: Anne Rice Year of Publication: 1993
+Book ID: 0394558235 Score: 0.98 Title: Queen of the Damned (Vampire Chronicles, Book III) Author: Anne Rice Year of Publication: 1988
+Book ID: 034538475X Score: 0.88 Title: The Tale of the Body Thief (Vampire Chronicles (Paperback)) Author: Anne Rice Year of Publication: 1993
+Book ID: 0316769509 Score: 0.53 Title: Nine Stories Author: J.D. Salinger Year of Publication: 1991
+Book ID: 0515093556 Score: 0.53 Title: Belinda Author: Anne Rice Year of Publication: 1994
+Book ID: 0679405283 Score: 0.53 Title: The Tale of the Body Thief (Vampire Chronicles) Author: Anne Rice Year of Publication: 1992
+Book ID: 067942573X Score: 0.53 Title: Taltos: Lives of the Mayfair Witches Author: Anne Rice Year of Publication: 1994
+Book ID: 2266034839 Score: 0.53 Title: Entretien Avec UN Vampire/Interview With the Vampire Author: Anne Rice Year of Publication: 1992
+Book ID: 034540727X Score: 0.42 Title: The Killer Angels Author: MICHAEL SHAARA Year of Publication: 1996
+Book ID: 0553250256 Score: 0.42 Title: Catcher in the Rye Author: Salinger Year of Publication: 1984
+Book ID: 0345337662 Score: 0.35 Title: Interview with the Vampire Author: Anne Rice Year of Publication: 1993
+Book ID: 0316769495 Score: 0.35 Title: Franny and Zooey Author: J.D. Salinger Year of Publication: 1991
+Book ID: 0345373707 Score: 0.35 Title: Cry to Heaven Author: Anne Rice Year of Publication: 1991

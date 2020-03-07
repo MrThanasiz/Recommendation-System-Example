@@ -1,0 +1,15 @@
+User ID: 155064 Location: tacoma, washington, usa Age: NULL
+Top books: 
+Book ID: 0393307069 Score: 1.17 Title: Post Captain (Aubrey-Maturin (Paperback)) Author: Patrick O'Brian Year of Publication: 1990
+Book ID: 0060194448 Score: 1.13 Title: The Wailing Wind Author: Tony Hillerman Year of Publication: 2002
+Book ID: 0393325172 Score: 1.07 Title: Master and Commander (Movie Tie-In Edition) Author: Patrick O'Brian Year of Publication: 2003
+Book ID: 0399141308 Score: 1.02 Title: Idoru Author: William Gibson Year of Publication: 1996
+Book ID: 0061000035 Score: 0.97 Title: The Dark Wind (Jim Chee Novels) Author: Tony Hillerman Year of Publication: 1990
+Book ID: 0061000019 Score: 0.88 Title: The Blessing Way (Joe Leaphorn Novels) Author: Tony Hillerman Year of Publication: 1990
+Book ID: 0061011738 Score: 0.88 Title: The Great Taos Bank Robbery and Other Indian Country Affairs Author: Tony Hillerman Year of Publication: 1997
+Book ID: 0061000280 Score: 0.53 Title: The Fly on the Wall Author: Tony Hillerman Year of Publication: 1990
+Book ID: 0061092886 Score: 0.53 Title: The Fallen Man (Joe Leaphorn Novels) Author: Tony Hillerman Year of Publication: 1997
+Book ID: 006019443X Score: 0.53 Title: The Sinister Pig (Hillerman, Tony) Author: Tony Hillerman Year of Publication: 2003
+Book ID: 0671462997 Score: 0.35 Title: PETALS ON WIND (Dollanger Saga (Paperback)) Author: V. C. Andrews Year of Publication: 1982
+Book ID: 0671648136 Score: 0.35 Title: PETALS ON WIND (Dollanger Saga (Paperback)) Author: V. C. Andrews Year of Publication: 1987
+Book ID: 0399149864 Score: 0.35 Title: Pattern Recognition Author: William Gibson Year of Publication: 2003

@@ -1,0 +1,12 @@
+User ID: 165444 Location: brighton, england, united kingdom Age: 34
+Top books: 
+Book ID: 0836218523 Score: 0.54 Title: The Calvin &amp; Hobbes Lazy Sunday Book Author: Bill Watterson Year of Publication: 1989
+Book ID: 0836220889 Score: 0.52 Title: Calvin and Hobbes Author: Bill Watterson Year of Publication: 1987
+Book ID: 0836218981 Score: 0.5 Title: The Indispensable Calvin And Hobbes Author: Bill Watterson Year of Publication: 1992
+Book ID: 0836218051 Score: 0.5 Title: The Essential Calvin and Hobbes Author: Bill Watterson Year of Publication: 1988
+Book ID: 0836218221 Score: 0.5 Title: The Authoritative Calvin and Hobbes (Calvin and Hobbes) Author: Bill Watterson Year of Publication: 1990
+Book ID: 0836221362 Score: 0.48 Title: It's A Magical World: A Calvin and Hobbes Collection Author: Bill Watterson Year of Publication: 1996
+Book ID: 0836213122 Score: 0.48 Title: There's Treasure Everywhere--A Calvin and Hobbes Collection Author: Bill Watterson Year of Publication: 1996
+Book ID: 0836217357 Score: 0.48 Title: Days Are Just Packed : A Calvin and Hobbes Collection (Calvin and Hobbes) Author: Bill Watterson Year of Publication: 1993
+Book ID: 0836217691 Score: 0.47 Title: Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection Author: Bill Watterson Year of Publication: 1994
+Book ID: 0836218787 Score: 0.47 Title: Scientific Progress Goes 'Boink':  A Calvin and Hobbes Collection Author: Bill Watterson Year of Publication: 1991

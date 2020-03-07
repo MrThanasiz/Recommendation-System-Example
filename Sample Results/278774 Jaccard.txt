@@ -1,0 +1,12 @@
+User ID: 278774 Location: london, n/a, united kingdom Age: 33
+Top books: 
+Book ID: 039914465X Score: 0.58 Title: Southern Cross Author: Patricia Daniels Cornwell Year of Publication: 1999
+Book ID: 0399145087 Score: 0.53 Title: Black Notice Author: Patricia Daniels Cornwell Year of Publication: 1999
+Book ID: 0399141464 Score: 0.53 Title: Cause of Death Author: Patricia Daniels Cornwell Year of Publication: 1996
+Book ID: 0425158616 Score: 0.53 Title: Cause of Death Author: Patricia Daniels Cornwell Year of Publication: 1997
+Book ID: 0425147622 Score: 0.53 Title: The Body Farm Author: Patricia Daniels Cornwell Year of Publication: 1995
+Book ID: 0399142851 Score: 0.53 Title: Unnatural Exposure Author: Patricia Daniels Cornwell Year of Publication: 1997
+Book ID: 0425163407 Score: 0.53 Title: Unnatural Exposure Author: Patricia Daniels Cornwell Year of Publication: 1998
+Book ID: 039914739X Score: 0.53 Title: Isle of Dogs Author: Patricia Daniels Cornwell Year of Publication: 2001
+Book ID: 0399142282 Score: 0.53 Title: Hornet's Nest Author: Patricia Daniels Cornwell Year of Publication: 1997
+Book ID: 0399143947 Score: 0.53 Title: Point of Origin Author: Patricia Daniels Cornwell Year of Publication: 1998
