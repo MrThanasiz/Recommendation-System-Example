@@ -9,6 +9,7 @@ Simple example of a Content-Based Recommendation System for books, written in Py
 Data used can be found  here: [http://www2.informatik.uni-freiburg.de/~cziegler/BX/](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 
 Code preprocesses the data by removing books with less than 10 ratings, and users with less than 5.
+
 Then generates a book profile based on the title of the book, and a user profile based on the title, year and author of the users 3 top rated books, then recommends 10 books to the user based on resemblance with the book profiles.
 
 On each execution the program picks 5 random users and generates recommendations.
